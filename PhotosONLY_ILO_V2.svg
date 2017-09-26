@@ -341,7 +341,7 @@
          id="tspan842"
          sodipodi:role="line">titre de l'event</tspan></text>
     <g
-       id="photo1.label"
+       id="photo1"
        transform="translate(2.4358445,-4.8716977)">
       <text
          charsperline="40"
@@ -374,7 +374,7 @@
          style="fill:#000000;fill-opacity:1;stroke:#ececec;stroke-width:4.42600012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#DotL);paint-order:stroke fill markers" />
     </g>
     <g
-       id="photo1">
+       id="g3635">
       <image
          width="627.27753"
          height="658.25415"
