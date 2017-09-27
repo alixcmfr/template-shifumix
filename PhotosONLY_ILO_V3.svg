@@ -396,13 +396,6 @@
          sodipodi:role="line">TITRE DE L'EVENEMENT</tspan></text>
     <g
        id="g9336">
-      <rect
-         y="725.27753"
-         x="139.96941"
-         height="187.56035"
-         width="501.78485"
-         id="rect9293"
-         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:3.08699989;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
       <text
          charsperline="40"
          transform="scale(0.9251666,1.0808864)"
@@ -410,20 +403,20 @@
          id="photo1.label"
          y="730.87128"
          x="414.7692"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.08699989;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.00000007px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.08699989;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.08699989;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.00000007px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.08699989;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;"
            y="730.87128"
            x="419.2067"
            id="tspan30"
            sodipodi:role="line">Text du tweet blablablabla </tspan><tspan
            id="tspan1011"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.08699989;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.00000007px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.08699989;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;"
            y="770.87128"
            x="414.7692"
            sodipodi:role="line">aaaaaaaaaaaaaaaaaaaaaaaaaa</tspan><tspan
            id="tspan845"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.08699989;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.00000007px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.08699989;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;"
            y="810.87128"
            x="414.7692"
            sodipodi:role="line">aaaaaaaaaaaaaaaaaaa</tspan></text>
@@ -470,13 +463,6 @@
     </g>
     <g
        id="photo2">
-      <rect
-         y="875.94458"
-         x="763.36743"
-         height="205.32236"
-         width="549.30402"
-         id="rect9293-1"
-         style="display:inline;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:3.37933946;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
       <text
          charsperline="40"
          transform="scale(0.9251666,1.0808864)"
@@ -545,13 +531,6 @@
     </g>
     <g
        id="photo3">
-      <rect
-         y="695.64148"
-         x="1394.9801"
-         height="193.24371"
-         width="549.4046"
-         id="rect9293-1-1"
-         style="display:inline;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:3.27873373;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
       <text
          charsperline="40"
          transform="scale(0.9251666,1.0808864)"
