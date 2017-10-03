@@ -26,7 +26,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.41053452"
      inkscape:cx="998.06717"
-     inkscape:cy="496.93488"
+     inkscape:cy="504.1124"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -271,6 +271,18 @@
          rx="114.37145"
          ry="110.33455" />
     </clipPath>
+    <font
+       horiz-adv-x="1024"
+       id="font959"
+       inkscape:label="fonte 1">
+      <font-face
+         units-per-em="1024"
+         id="font-face961"
+         font-family="SVGFont 1" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph963" />
+    </font>
   </defs>
   <metadata
      id="metadata5691">
@@ -300,7 +312,7 @@
        width="1937.1633"
        sodipodi:insensitive="true" />
     <rect
-       style="opacity:0.503;fill:#cccccc;fill-opacity:1;stroke:#808080;stroke-width:3.08699989;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="opacity:0.5;fill:#cccccc;fill-opacity:1;stroke:#808080;stroke-width:3.08699989;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect1507"
        width="1937.1633"
        height="1082.9414"
@@ -309,17 +321,17 @@
        sodipodi:insensitive="true" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:'Freestyle Script';-inkscape-font-specification:'Freestyle Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none"
-       x="135.71826"
-       y="-1942.1851"
+       x="175.11772"
+       y="-1958.6163"
        id="text1518"
-       transform="rotate(90.638903)"
-       inkscape:transform-center-x="15.883017"
-       inkscape:transform-center-y="-71.05596"><tspan
+       transform="rotate(89.499668)"
+       inkscape:transform-center-x="17.392451"
+       inkscape:transform-center-y="-70.744602"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none"><tspan
          sodipodi:role="line"
          id="tspan1516"
-         x="135.71826"
-         y="-1942.1851">Commentaires &amp; Questions</tspan></text>
+         x="175.11772"
+         y="-1958.6163">Commentaires &amp; Questions</tspan></text>
     <g
        id="tweet1">
       <image
