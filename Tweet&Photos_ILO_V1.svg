@@ -416,7 +416,7 @@
              id="tspan1991">34567890123456789012</tspan></text>
         <rect
            transform="rotate(10.042862)"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#808080;stroke-width:3.04919672;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:3.04919672;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
            id="rect2002"
            width="289.90381"
            height="304.51892"
@@ -464,7 +464,7 @@
          height="304.51892"
          width="289.90381"
          id="rect2002-6"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#808080;stroke-width:3.04919672;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:3.04919672;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
     </g>
     <g
        id="tweet1">
@@ -525,7 +525,7 @@
     </g>
     <g
        id="photo3"
-       transform="matrix(1.0354528,-0.15034657,0.15034657,1.0354528,-205.30967,396.40997)">
+       transform="matrix(1.0354528,-0.15034657,0.15034657,1.0354528,-202.87382,379.35903)">
       <image
          width="492.23492"
          height="516.83539"
@@ -563,7 +563,7 @@
          height="304.51892"
          width="289.90381"
          id="rect2088"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#808080;stroke-width:3.04919672;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:3.04919672;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
     </g>
     <g
        id="photo4"
@@ -605,7 +605,7 @@
          height="304.51892"
          width="289.90381"
          id="rect2132"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#808080;stroke-width:3.04919672;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:3.04919672;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
     </g>
     <g
        id="tweet3">
