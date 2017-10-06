@@ -540,7 +540,8 @@
            sodipodi:role="line" /></text>
     </g>
     <g
-       id="photo1">
+       id="photo1"
+       transform="translate(-36.537731,34.101883)">
       <image
          width="528.5722"
          height="554.98871"
@@ -562,7 +563,8 @@
          transform="rotate(10.042862)" />
     </g>
     <g
-       id="photo2">
+       id="photo2"
+       transform="translate(-46.218821,-24.780942)">
       <image
          width="514.72943"
          height="540.4541"
@@ -583,7 +585,8 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:3.18854094;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
     </g>
     <g
-       id="photo4">
+       id="photo4"
+       transform="translate(-89.257325,-14.099418)">
       <image
          width="519.27264"
          height="545.22443"
@@ -604,7 +607,8 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:3.21668458;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
     </g>
     <g
-       id="photo3">
+       id="photo3"
+       transform="matrix(1.0467569,0,0,1.0467569,-124.17957,-16.085837)">
       <image
          width="515.03076"
          height="540.77051"
