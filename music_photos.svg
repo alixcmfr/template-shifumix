@@ -15,7 +15,7 @@
    version="1.2"
    id="SVGRoot"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="music&amp;photos.svg"
+   sodipodi:docname="music_photos.svg"
    viewBox="0 0 1920 1080">
   <sodipodi:namedview
      id="base"
@@ -26,7 +26,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.94"
      inkscape:cx="1124.9017"
-     inkscape:cy="557.59695"
+     inkscape:cy="472.49057"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -418,7 +418,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -437,38 +437,38 @@
        sodipodi:insensitive="true" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.38506043;"
-       x="506.61115"
-       y="89.993874"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333206px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.38506043"
+       x="690.51312"
+       y="111.32753"
        id="event.title"
        transform="scale(1.01281,0.98735203)"><tspan
          sodipodi:role="line"
          id="tspan4775"
-         x="506.61115"
-         y="89.993874"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;stroke-width:1.38506043;">Titre de l'éjhgjhgj ghjghvénement</tspan></text>
+         x="690.51312"
+         y="111.32753"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333206px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.38506043">Titre de l'éjhgjhgj ghjghvénement</tspan></text>
     <rect
        style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:14.60919952;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="event.qrcode"
        width="138.14522"
        height="129.51028"
-       x="1850.3777"
-       y="48.304623" />
+       x="109.0732"
+       y="45.503014" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.38506043"
-       x="97.077995"
-       y="91.295959"
+       x="276.77579"
+       y="112.62962"
        id="event.title-6"
        transform="scale(1.01281,0.98735203)"><tspan
          sodipodi:role="line"
          id="tspan4775-5"
-         x="97.077995"
-         y="91.295959"
+         x="276.77579"
+         y="112.62962"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.38506043">Prenez le contrôle de</tspan></text>
     <g
        id="event.currentSong"
-       transform="matrix(1.3026063,0,0,1.3026063,-31.804583,-83.347467)">
+       transform="matrix(1.3026063,0,0,1.3026063,-31.804583,-69.347467)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.44914672"
@@ -569,101 +569,97 @@
          x="759.07318"
          y="305.01331" />
     </g>
-    <g
-       id="song1"
-       transform="matrix(1.2378076,0,0,1.2378076,-26.732606,-117.7179)">
-      <text
-         transform="scale(1.0751102,0.93013721)"
-         id="song1.dislike"
-         y="579.14935"
-         x="563.5025"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.44811332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.44811332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           y="579.14935"
-           x="563.5025"
-           id="tspan5031"
-           sodipodi:role="line">8</tspan></text>
-      <text
-         transform="scale(1.0751102,0.93013721)"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.44811332"
-         x="563.5025"
-         y="520.31213"
-         id="song1.like"
-         inkscape:transform-center-x="27.659574"><tspan
-           sodipodi:role="line"
-           id="tspan5035"
-           x="563.5025"
-           y="520.31213"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.44811332">8</tspan></text>
-      <rect
-         y="435.01331"
-         x="112.41277"
-         height="110"
-         width="110"
-         id="song1.picture"
-         style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.76133776;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
-      <text
-         id="song1.title"
-         y="457.42511"
-         x="238.37968"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.8170653"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666603px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;stroke-width:0.8170653"
-           y="457.42511"
-           x="238.37968"
-           id="tspan1676-4"
-           sodipodi:role="line">titretitretitretitretitre</tspan></text>
-      <rect
-         transform="matrix(0.23009626,0,0,0.23009626,98.865232,533.38745)"
-         clip-path="url(#clipPath839-0-7-0)"
-         y="-140.35063"
-         x="599.0946"
-         height="234.33676"
-         width="245.37494"
-         id="song1.from.picture"
-         style="opacity:1;fill:#ffff00;stroke:none;stroke-width:4.78702641;stroke-miterlimit:4;stroke-dasharray:none" />
-      <text
-         id="song1.from.firstname"
-         y="534.87402"
-         x="298.61304"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75285929"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff2a2a;fill-opacity:1;stroke-width:0.75285929"
-           y="534.87402"
-           x="298.61304"
-           id="tspan1670-6"
-           sodipodi:role="line">Prénomprenomprenom</tspan></text>
-      <text
-         id="song1.author"
-         y="486.25153"
-         x="237.6414"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.81512427"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;stroke-width:0.81512427"
-           y="486.25153"
-           x="237.6414"
-           id="tspan1676-4-0-8-8-2"
-           sodipodi:role="line">artisteartisteartisteartiste</tspan></text>
-      <image
-         style="fill:#ff0000;fill-opacity:1"
-         width="34.838718"
-         height="34.726685"
-         preserveAspectRatio="none"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAFzUkdC AK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAZiS0dE AAAAAAAA+UO7fwAAAAlwSFlzAAAASAAAAEgARslrPgAAA0RJREFUaN7tmblrFFEcx79jskY3l+IR UTeKFwixjGcbrYTgUYidhdgoiAYstNOIlURB/ANiogie0SgGsbBQ8Go0IZckiAeYYJGIBo0fi0xg fHm7OzM7u2OxXxjYx/5+32Pm7bx5s1IRRRRRRJxw/BYCiyXtkrRT0jpJyyRNSvogaVDSXUk3Hcf5 loVnvqTdkholrZKUklQi6aOkPkkdkm45jvM1koRAFdAMjJMdE0ALUG3hqQYuuDXZMA6cASpzNb8W 6PEhaOIzsN3DswP4EoLnHbAm1BQC1kp6JmlByPwTkva7Gu2SZofkGZG0xXGcgSBnvirNmR8GmoA6 oBxIup+PA/2W+t/uYaIPOOb2Jl2uOpd72FLfHWg6AWctJJeBsgw9CeBUGsPT+AWcBBIZeMpcLROn /ZqvAb6b5gOE35smxG9gTwAeM8Q4sMhP4yHLtCnzoenlaA59Bv+9EuZ0OuinscNoagoi7HJUAPeB Lve4D5SH4GkyvNzx09RnNNUFFY4K7g/bi14/TeaCFfjMRRig3PAyZtbMsvQlsowLCXPtKPUTYMQY r4oxwOos3qwBuo3x5hgDmNqmN2uAB8b4QIwBTO3OrB1ACvhj/Hi2Fto5sM3wMAks89v82Gh+CZQU 0HwJ8Nrw0BWEYJPlKhwpYICjhvYfoD4oyXWD5GdgknDmN7paXrSFIUoBowbREBB2f+BHc6Hl+WfE 99y3EO60TKXn+VidgbnAU8vUacyV+CIz0UGGZ/oQGgmg06LTEhX5Qwt5axR3JveOc9XC3wmU5so/ LVIJvLKIXMtFxDXfauF9CVREYt4jtgQYtIi1hwnhXtnrFr5+oCZS8x7RWuC9RfQGAXZtwBzgtoVn AFieF/Me8ZQrZOIJUOWjvwJ4ZOkfAlbm1bzHxIo0IV6QYeMNLGbmI8L0tEkVxLzHTA3wxmKmB6hN E7rXUv8WWFpQ8x5T85i5+AB8AjZ46tYDHyx1z8njyu43RJKptw4mRoEtQD3w1fL9PSAZq3lPiATQ ZjE5hv2t9hUiXMmjCuEA58mOS8Cs3BXzF+REBvPn4vbnN8RhpraA05gEDsftK2iIXcAPpv6R2Re3 n7AhGoCGuH0UUUQR/zH+AnYOGZpHVy/XAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTAyLTEzVDE2 OjQ4OjMxKzAwOjAwr/wBBQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wMi0xM1QxNjo0ODozMSsw MDowMN6hubkAAAAodEVYdHN2ZzpiYXNlLXVyaQBmaWxlOi8vL3RtcC9tYWdpY2stelNjQTQ4THHD 9O+NAAAAAElFTkSuQmCC "
-         id="image5736-3"
-         x="624.2345"
-         y="460.28662" />
-      <image
-         width="34.838718"
-         height="34.726685"
-         preserveAspectRatio="none"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAFzUkdC AK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAZiS0dE AAAAAAAA+UO7fwAAAAlwSFlzAAAASAAAAEgARslrPgAAAzBJREFUaN7tmEtIFWEYht9fdJFlBWVG KrUoN4WLyNoEFQhBGWYQuWzVxrYRgbuyC4FF4EJaVJCbWgRdLAprUUJQ0aIbWYEVQqVBkJVd9Gkx I8wZ55wz8/+jp+C8q8Ocf97veWe++eYiFVVUUUUVUibuQmCRpBZJTZLqJFX7+3+S9ETSTUldxhjy +FRJ2iWpUVK9pEpJSBqSNCDpiqRLxpjhVBICc4EOYJT82p3DZyFwGhiL4TMKHAIqXOFXAC9iFJzU B2BehE8t8DGBz6SeActd4EcsinZGeBnggYUXwHDiEHhtk+TIB/ULWBnhudnSD+A5SdoJOOJQDKAv i+8dB8+DceGrgG+OAQB2Rnivd/AbBSrDniURGXZIKk980UxVJzA7uMEYc0/SdUu/2fLGeN4AW1KA l6QaSQcitrfLm/s22pp3BfA6hfaZ1BhQF1HjoqXfyzgB4tywkuhyRI064LeF19ewV1QLlTk3T6a2 ARmn3hgzIKnHwqs0ToCRlANI0uGIbcctfKawRQV4Pg0BMmCBUknHLHymsEUFsB1z2XTCGHM+AG8k dSvORJmq3rwrgBpgPKULuM8/2kH/DkuvcaA6Vky/sKsGCd05gTYHv1uxzxOwFphwKPYDWBPybAb+ WPpNAA2Jmg244BBgd8hrgx/KVslHLt5LyGeLYidCPvXAFwf4EeL2fkSIJpK1UsZFizcQ3jnATwDN VvABiFMxi2VctMAC7F+KJnXSCd4HKQNuxCi2LrRfvyN8L6ER7BKiAniUp2BraB+X1nkIzEkFPgC0 GHiTo2h/aL3tveQV3rej9IU3mXK9LzQE1nZbwA8Cy5IwlSRZbIx5L2mTpDdZlrQFfr9OeHzeStpo jBmclqMfFLA0y5kYw/sEKWB7wrapnXbwUIgq4HEETLv//6qY8E+BJTMKHwgxH7gbAhrCG72zyP9U ex9YUBD4QIhy4FoIrNX/L9covQqk8fkmlRClwJkAXL+//XYW+B4g7Xdv5xAG6AxANhA9SruARNNv poPs90HPAvtC8EcLzRc3xF7gO7DHBx8H9haaK2mIFuAc8JPQc9J/I2A10FhojqKKKuof1l8YKxbg TmBSRAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxOC0wMi0xM1QxNjo1NzowMyswMDowMIZpk4IAAAAl dEVYdGRhdGU6bW9kaWZ5ADIwMTgtMDItMTNUMTY6NTc6MDMrMDA6MDD3NCs+AAAAKHRFWHRzdmc6 YmFzZS11cmkAZmlsZTovLy90bXAvbWFnaWNrLS1tMXc5RDd3gUVjZgAAAABJRU5ErkJggg== "
-         id="image5965-9"
-         x="624.2345"
-         y="515.01331" />
-    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.1057415px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.55467808"
+       x="672.6427"
+       y="590.31573"
+       id="song1.dislike"
+       transform="scale(1.0751102,0.9301372)"><tspan
+         sodipodi:role="line"
+         id="tspan5031"
+         x="672.6427"
+         y="590.31573"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.40656281px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.55467808;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">8</tspan></text>
+    <text
+       inkscape:transform-center-x="27.659574"
+       id="song1.like"
+       y="517.48657"
+       x="672.6427"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.40656281px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.55467808"
+       xml:space="preserve"
+       transform="scale(1.0751102,0.9301372)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.40656281px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.55467808"
+         y="517.48657"
+         x="672.6427"
+         id="tspan5035"
+         sodipodi:role="line">8</tspan></text>
+    <rect
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2.18019724;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="song1.picture"
+       width="136.15883"
+       height="136.15883"
+       x="112.41278"
+       y="420.74487" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.0082016px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1.01136959"
+       x="268.33557"
+       y="448.48639"
+       id="song1.title"><tspan
+         sodipodi:role="line"
+         id="tspan1676-4"
+         x="268.33557"
+         y="448.48639"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.0082016px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;stroke-width:1.01136959">titretitretitretitretitre</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffff00;stroke:none;stroke-width:4.78702641;stroke-miterlimit:4;stroke-dasharray:none"
+       id="song1.from.picture"
+       width="245.37494"
+       height="234.33676"
+       x="599.0946"
+       y="-140.35063"
+       clip-path="url(#clipPath839-0-7-0)"
+       transform="matrix(0.2848149,0,0,0.2848149,95.64353,542.51314)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.7073822px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93189496"
+       x="342.89288"
+       y="544.35321"
+       id="song1.from.firstname"><tspan
+         sodipodi:role="line"
+         id="tspan1670-6"
+         x="342.89288"
+         y="544.35321"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.0082016px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff2a2a;fill-opacity:1;stroke-width:0.93189496">Prénomprenomprenom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.7073822px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1.00896704"
+       x="267.42172"
+       y="484.16794"
+       id="song1.author"><tspan
+         sodipodi:role="line"
+         id="tspan1676-4-0-8-8-2"
+         x="267.42172"
+         y="484.16794"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.7073822px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;stroke-width:1.00896704">artisteartisteartisteartiste</tspan></text>
+    <image
+       y="452.02838"
+       x="745.94958"
+       id="image5736-3"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAFzUkdC AK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAZiS0dE AAAAAAAA+UO7fwAAAAlwSFlzAAAASAAAAEgARslrPgAAA0RJREFUaN7tmblrFFEcx79jskY3l+IR UTeKFwixjGcbrYTgUYidhdgoiAYstNOIlURB/ANiogie0SgGsbBQ8Go0IZckiAeYYJGIBo0fi0xg fHm7OzM7u2OxXxjYx/5+32Pm7bx5s1IRRRRRRJxw/BYCiyXtkrRT0jpJyyRNSvogaVDSXUk3Hcf5 loVnvqTdkholrZKUklQi6aOkPkkdkm45jvM1koRAFdAMjJMdE0ALUG3hqQYuuDXZMA6cASpzNb8W 6PEhaOIzsN3DswP4EoLnHbAm1BQC1kp6JmlByPwTkva7Gu2SZofkGZG0xXGcgSBnvirNmR8GmoA6 oBxIup+PA/2W+t/uYaIPOOb2Jl2uOpd72FLfHWg6AWctJJeBsgw9CeBUGsPT+AWcBBIZeMpcLROn /ZqvAb6b5gOE35smxG9gTwAeM8Q4sMhP4yHLtCnzoenlaA59Bv+9EuZ0OuinscNoagoi7HJUAPeB Lve4D5SH4GkyvNzx09RnNNUFFY4K7g/bi14/TeaCFfjMRRig3PAyZtbMsvQlsowLCXPtKPUTYMQY r4oxwOos3qwBuo3x5hgDmNqmN2uAB8b4QIwBTO3OrB1ACvhj/Hi2Fto5sM3wMAks89v82Gh+CZQU 0HwJ8Nrw0BWEYJPlKhwpYICjhvYfoD4oyXWD5GdgknDmN7paXrSFIUoBowbREBB2f+BHc6Hl+WfE 99y3EO60TKXn+VidgbnAU8vUacyV+CIz0UGGZ/oQGgmg06LTEhX5Qwt5axR3JveOc9XC3wmU5so/ LVIJvLKIXMtFxDXfauF9CVREYt4jtgQYtIi1hwnhXtnrFr5+oCZS8x7RWuC9RfQGAXZtwBzgtoVn AFieF/Me8ZQrZOIJUOWjvwJ4ZOkfAlbm1bzHxIo0IV6QYeMNLGbmI8L0tEkVxLzHTA3wxmKmB6hN E7rXUv8WWFpQ8x5T85i5+AB8AjZ46tYDHyx1z8njyu43RJKptw4mRoEtQD3w1fL9PSAZq3lPiATQ ZjE5hv2t9hUiXMmjCuEA58mOS8Cs3BXzF+REBvPn4vbnN8RhpraA05gEDsftK2iIXcAPpv6R2Re3 n7AhGoCGuH0UUUQR/zH+AnYOGZpHVy/XAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTAyLTEzVDE2 OjQ4OjMxKzAwOjAwr/wBBQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wMi0xM1QxNjo0ODozMSsw MDowMN6hubkAAAAodEVYdHN2ZzpiYXNlLXVyaQBmaWxlOi8vL3RtcC9tYWdpY2stelNjQTQ4THHD 9O+NAAAAAElFTkSuQmCC "
+       preserveAspectRatio="none"
+       height="42.984955"
+       width="43.123631"
+       style="fill:#ff0000;fill-opacity:1" />
+    <image
+       y="519.76947"
+       x="745.94958"
+       id="image5965-9"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAFzUkdC AK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAZiS0dE AAAAAAAA+UO7fwAAAAlwSFlzAAAASAAAAEgARslrPgAAAzBJREFUaN7tmEtIFWEYht9fdJFlBWVG KrUoN4WLyNoEFQhBGWYQuWzVxrYRgbuyC4FF4EJaVJCbWgRdLAprUUJQ0aIbWYEVQqVBkJVd9Gkx I8wZ55wz8/+jp+C8q8Ocf97veWe++eYiFVVUUUUVUibuQmCRpBZJTZLqJFX7+3+S9ETSTUldxhjy +FRJ2iWpUVK9pEpJSBqSNCDpiqRLxpjhVBICc4EOYJT82p3DZyFwGhiL4TMKHAIqXOFXAC9iFJzU B2BehE8t8DGBz6SeActd4EcsinZGeBnggYUXwHDiEHhtk+TIB/ULWBnhudnSD+A5SdoJOOJQDKAv i+8dB8+DceGrgG+OAQB2Rnivd/AbBSrDniURGXZIKk980UxVJzA7uMEYc0/SdUu/2fLGeN4AW1KA l6QaSQcitrfLm/s22pp3BfA6hfaZ1BhQF1HjoqXfyzgB4tywkuhyRI064LeF19ewV1QLlTk3T6a2 ARmn3hgzIKnHwqs0ToCRlANI0uGIbcctfKawRQV4Pg0BMmCBUknHLHymsEUFsB1z2XTCGHM+AG8k dSvORJmq3rwrgBpgPKULuM8/2kH/DkuvcaA6Vky/sKsGCd05gTYHv1uxzxOwFphwKPYDWBPybAb+ WPpNAA2Jmg244BBgd8hrgx/KVslHLt5LyGeLYidCPvXAFwf4EeL2fkSIJpK1UsZFizcQ3jnATwDN VvABiFMxi2VctMAC7F+KJnXSCd4HKQNuxCi2LrRfvyN8L6ER7BKiAniUp2BraB+X1nkIzEkFPgC0 GHiTo2h/aL3tveQV3rej9IU3mXK9LzQE1nZbwA8Cy5IwlSRZbIx5L2mTpDdZlrQFfr9OeHzeStpo jBmclqMfFLA0y5kYw/sEKWB7wrapnXbwUIgq4HEETLv//6qY8E+BJTMKHwgxH7gbAhrCG72zyP9U ex9YUBD4QIhy4FoIrNX/L9covQqk8fkmlRClwJkAXL+//XYW+B4g7Xdv5xAG6AxANhA9SruARNNv poPs90HPAvtC8EcLzRc3xF7gO7DHBx8H9haaK2mIFuAc8JPQc9J/I2A10FhojqKKKuof1l8YKxbg TmBSRAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxOC0wMi0xM1QxNjo1NzowMyswMDowMIZpk4IAAAAl dEVYdGRhdGU6bW9kaWZ5ADIwMTgtMDItMTNUMTY6NTc6MDMrMDA6MDD3NCs+AAAAKHRFWHRzdmc6 YmFzZS11cmkAZmlsZTovLy90bXAvbWFnaWNrLS1tMXc5RDd3gUVjZgAAAABJRU5ErkJggg== "
+       preserveAspectRatio="none"
+       height="42.984955"
+       width="43.123631" />
     <g
        id="song2"
        transform="matrix(1.2378076,0,0,1.2378076,-26.732606,-158.61339)">
