@@ -335,20 +335,22 @@
            sodipodi:role="line">4</tspan></text>
       <g
          transform="translate(-37.274067,158.09292)"
-         id="bet.option4.user1">
+         id="bet.option4.user1"
+         style="fill:none">
         <rect
            y="-248.68555"
            x="1531.1917"
            height="60.653004"
            width="66.969948"
            id="bet.option4.user1.picture"
-           style="fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0.75446373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.75446373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <g
          transform="translate(-37.274067,158.09292)"
-         id="bet.option4.user2">
+         id="bet.option4.user2"
+         style="fill:none">
         <rect
-           style="fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0.75446373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.75446373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="bet.option4.user2.picture"
            width="66.969948"
            height="60.653004"
@@ -357,20 +359,22 @@
       </g>
       <g
          transform="translate(-37.274067,158.09292)"
-         id="bet.option4.user3">
+         id="bet.option4.user3"
+         style="fill:none">
         <rect
            y="-249.58795"
            x="1708.0658"
            height="60.653004"
            width="66.969948"
            id="bet.option4.user3.picture"
-           style="fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0.75446373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.75446373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <g
          transform="translate(-37.274067,158.09292)"
-         id="bet.option4.user4">
+         id="bet.option4.user4"
+         style="fill:none">
         <rect
-           style="fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0.75446373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.75446373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="bet.option4.user4.picture"
            width="66.969948"
            height="60.653004"
@@ -744,20 +748,22 @@
            sodipodi:role="line">4</tspan></text>
       <g
          transform="matrix(0.6480092,0,0,0.67100885,513.51491,-110.67988)"
-         id="bet.option5.user1">
+         id="bet.option5.user1"
+         style="opacity:1;fill:none">
         <rect
            y="-248.68555"
            x="1531.1917"
            height="60.653004"
            width="66.969948"
            id="bet.option4.user1.picture-2"
-           style="fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0.75446373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.75446373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <g
          transform="matrix(0.6480092,0,0,0.67100885,513.51491,-110.67988)"
-         id="bet.option5.user2">
+         id="bet.option5.user2"
+         style="fill:none">
         <rect
-           style="fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0.75446373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.75446373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="bet.option4.user2.picture-7"
            width="66.969948"
            height="60.653004"
@@ -766,21 +772,23 @@
       </g>
       <g
          transform="matrix(0.6480092,0,0,0.67100885,513.51491,-110.67988)"
-         id="bet.option5.user3">
+         id="bet.option5.user3"
+         style="fill:none">
         <rect
            y="-249.58795"
            x="1708.0658"
            height="60.653004"
            width="66.969948"
            id="bet.option4.user3.picture-2"
-           style="fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0.75446373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.75446373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <g
          transform="matrix(0.6480092,0,0,0.67100885,513.51491,-110.67988)"
          id="bet.option5.user4"
-         inkscape:label="#bet.option4.user4">
+         inkscape:label="#bet.option4.user4"
+         style="fill:none">
         <rect
-           style="fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0.75446373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.75446373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="bet.option4.user4.picture-75"
            width="66.969948"
            height="60.653004"
