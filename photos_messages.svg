@@ -713,14 +713,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333206px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.38506043"
-       x="621.14551"
-       y="94.045113"
+       x="629.04443"
+       y="96.070732"
        id="event.title"
        transform="scale(1.01281,0.98735203)"><tspan
          sodipodi:role="line"
          id="tspan4775"
-         x="621.14551"
-         y="94.045113"
+         x="629.04443"
+         y="96.070732"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333206px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.38506043">Titre de l'éjhgjhgj ghjghvénement</tspan></text>
     <rect
        style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:11.57457829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -732,19 +732,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.38506043"
-       x="207.66124"
-       y="95.347198"
+       x="215.56004"
+       y="97.372818"
        id="event.title-6"
        transform="scale(1.01281,0.98735203)"><tspan
          sodipodi:role="line"
          id="tspan4775-5"
-         x="207.66124"
-         y="95.347198"
+         x="215.56004"
+         y="97.372818"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.38506043">Prenez le contrôle de</tspan></text>
     <g
        id="photo1"
        inkscape:label="#photo1"
-       transform="matrix(5.9212706,0,0,5.9212706,131.29989,-79.099951)">
+       transform="matrix(5.885966,0,0,5.885966,120.1264,-60.985343)">
       <rect
          y="37.330357"
          x="21.544643"
@@ -762,7 +762,7 @@
          style="opacity:1;fill:#333333;stroke:#333333;stroke-width:1.06729186;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(5.8042702,-1.1712783,1.1712783,5.8042702,-66.571619,269.0729)"
+       transform="matrix(5.7696634,-1.1642949,1.1642949,5.7696634,-76.565329,285.11158)"
        inkscape:label="#photo2"
        id="photo2">
       <rect
@@ -784,7 +784,7 @@
     <g
        id="photo3"
        inkscape:label="#photo3"
-       transform="matrix(5.792333,1.2289521,-1.2289521,5.792333,732.94961,-105.04879)">
+       transform="matrix(5.7577973,1.2216246,-1.2216246,5.7577973,718.1889,-86.779466)">
       <rect
          y="37.330357"
          x="21.544643"
@@ -802,7 +802,7 @@
          style="opacity:1;fill:#333333;stroke:#333333;stroke-width:1.06729186;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(5.9011069,-0.48824448,0.48824448,5.9011069,123.49484,527.06812)"
+       transform="matrix(5.8659226,-0.48533341,0.48533341,5.8659226,112.36788,541.56858)"
        inkscape:label="#photo4"
        id="photo4">
       <rect
@@ -824,7 +824,7 @@
     <g
        id="photo5"
        inkscape:label="#photo5"
-       transform="matrix(5.8328314,1.01957,-1.01957,5.8328314,471.06128,141.15813)">
+       transform="matrix(5.7980542,1.0134911,-1.0134911,5.7980542,457.86204,157.9595)">
       <rect
          y="37.330357"
          x="21.544643"
@@ -842,7 +842,7 @@
          style="opacity:1;fill:#333333;stroke:#333333;stroke-width:1.06729186;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(5.9210189,0.05459747,-0.05459747,5.9210189,645.87365,537.06895)"
+       transform="matrix(5.8857158,0.05427194,-0.05427194,5.8857158,631.63212,551.50977)"
        inkscape:label="#photo6"
        id="photo6">
       <rect
